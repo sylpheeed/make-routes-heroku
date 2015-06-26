@@ -1,0 +1,23 @@
+{
+  "name": "make-routes",
+  "authors": [
+    "sylpheed <sylpheed@mail.ru>"
+  ],
+  "description": "JavaScript library for creating beautiful routes for your application",
+  "main": "make-routes.min.js",
+  "keywords": [
+    "routes"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sylpheeed/make-routes",
+  "_release": "5ab31c893d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5ab31c893d20e21e252eaebad252669441b23d13"
+  },
+  "_source": "git://github.com/sylpheeed/make-routes.git",
+  "_target": "*",
+  "_originalSource": "make-routes",
+  "_direct": true
+}
