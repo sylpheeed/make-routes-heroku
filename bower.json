@@ -1,7 +1,0 @@
-{
-  "name": "make-routes-heroku",
-  "version": "0.1.0",
-  "dependencies": {
-    "make-routes": "*"
-  }
-}
