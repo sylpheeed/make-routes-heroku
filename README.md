@@ -1,6 +1,6 @@
 # make-routes-heroku
 
-This example show how to work with make routes, react.js and page.js
+This example shows how to work with make routes, react.js and page.js
 
 # How to launch
 
